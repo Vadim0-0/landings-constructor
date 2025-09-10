@@ -22,7 +22,8 @@
     "templatesPath": "/data/types/slots/templates.json",
     "zipBuilder": "slots",
     "slots": [
-      { "type": "header", "name": "Выберите логотип" }
+      { "type": "header", "name": "Выберите логотип" },
+      { "type": "main-img", "name": "Выберите главное изображение" }
     ]
   },
   {
