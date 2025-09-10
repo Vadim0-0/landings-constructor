@@ -1,6 +1,8 @@
 {
-  "wheel": [
-    "/data/types/wheel/modules/wheel/wheel_1.json"
+  "header": [
+    "/data/types/wheel/modules/header/header_1.json",
+    "/data/types/wheel/modules/header/header_2.json",
+    "/data/types/wheel/modules/header/header_3.json"
   ]
 }
 
