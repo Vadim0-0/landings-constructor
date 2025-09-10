@@ -1,0 +1,31 @@
+{
+  "header": [
+    "/data/types/wheel/modules/header/header_1.json",
+    "/data/types/wheel/modules/header/header_2.json"
+  ],
+  "main-img": [
+    "/data/types/wheel/modules/main-img/main-img_1.json",
+    "/data/types/wheel/modules/main-img/main-img_2.json"
+  ],
+  "main-title": [
+    "/data/types/wheel/modules/main-title/main-title_1.json",
+    "/data/types/wheel/modules/main-title/main-title_2.json"
+  ],
+  "wheel": [
+    "/data/types/wheel/modules/wheel/wheel_1.json",
+    "/data/types/wheel/modules/wheel/wheel_2.json"
+  ],
+  "erasers": [
+    "/data/types/wheel/modules/erasers/erasers_1.json",
+    "/data/types/wheel/modules/erasers/erasers_2.json"
+  ],
+  "popup": [
+    "/data/types/wheel/modules/popup/popup_1.json",
+    "/data/types/wheel/modules/popup/popup_2.json"
+  ],
+  "popup-btn": [
+    "/data/types/wheel/modules/popup-btn/popup-btn_1.json",
+    "/data/types/wheel/modules/popup-btn/popup-btn_2.json"
+  ]
+}
+

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "wheel",
+    "name": "Wheel of Fortune",
+    "thumbnail": "/assets/landig-types/landing-wheel/main-img.jpg",
+    "templatesPath": "/data/types/wheel/templates.json",
+    "zipBuilder": "wheel",
+    "slots": [
+      { "type": "header", "name": "Выберите логотип" },
+      { "type": "main-img", "name": "Выберите главное изображение" },
+      { "type": "main-title", "name": "Выберите главный заголовок" },
+      { "type": "wheel", "name": "Выберите колесо" },
+      { "type": "erasers", "name": "Выберите стиратели" },
+      { "type": "popup", "name": "Выберите popup" },
+      { "type": "popup-btn", "name": "Выберите кнопку в popup" }
+    ]
+  },
+  {
+    "id": "slots",
+    "name": "Slots",
+    "thumbnail": "/assets/landig-types/landing-slots/main-img.jpg",
+    "templatesPath": "/data/types/slots/templates.json",
+    "zipBuilder": "slots",
+    "slots": [
+
+    ]
+  },
+  {
+    "id": "plinko",
+    "name": "Plinko",
+    "thumbnail": "/assets/landig-types/landing-plinko/main-img.jpg",
+    "templatesPath": "/data/types/plinko/templates.json",
+    "zipBuilder": "plinko",
+    "slots": [
+    ]
+  }
+]
+

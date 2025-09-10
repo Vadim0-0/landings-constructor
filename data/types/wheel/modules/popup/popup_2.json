@@ -1,0 +1,239 @@
+[
+    {
+      "id": "popup_2",
+      "name": "Popup 2",
+      "type": "popup",
+      "parentId": null,
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.jpg"
+    },
+    {
+      "id": "popup_2-passion-one",
+      "type": "popup",
+      "name": "Passion one",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/passion-one/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/passion-one/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/img/popup-bottom-bg.png"
+      ]
+    },
+    {
+      "id": "popup_2-chango",
+      "type": "popup",
+      "name": "Chango",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/chango/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/chango/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/img/popup-bottom-bg.png"
+      ]
+    },
+    {
+      "id": "popup_2-inter",
+      "type": "popup",
+      "name": "Inter",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/inter/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/inter/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/img/popup-bottom-bg.png"
+      ]
+    },
+    {
+      "id": "popup_2-luckiest-guy",
+      "type": "popup",
+      "name": "Luckiest guy",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/luckiest-guy/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/luckiest-guy/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/img/popup-bottom-bg.png"
+      ]
+    },
+    {
+      "id": "popup_2-montserrat",
+      "type": "popup",
+      "name": "Montserrat",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/montserrat/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/montserrat/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/img/popup-bottom-bg.png"
+      ]
+    },
+    {
+      "id": "popup_2-poppins",
+      "type": "popup",
+      "name": "Poppins",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/poppins/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/poppins/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/img/popup-bottom-bg.png"
+      ]
+    },
+    {
+      "id": "popup_2-rammetto-one",
+      "type": "popup",
+      "name": "Rammetto one",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/rammetto-one/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/rammetto-one/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/img/popup-bottom-bg.png"
+      ]
+    },
+    {
+      "id": "popup_2-roboto",
+      "type": "popup",
+      "name": "Roboto",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/roboto/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/roboto/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/img/popup-bottom-bg.png"
+      ]
+    },
+    {
+      "id": "popup_2-rowdies",
+      "type": "popup",
+      "name": "Rowdies",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/rowdies/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/rowdies/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        ""
+      ]
+    },
+    {
+      "id": "popup_2-ubuntu",
+      "type": "popup",
+      "name": "Ubuntu",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/ubuntu/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/ubuntu/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/img/popup-bottom-bg.png"
+      ]
+    },
+    {
+      "id": "popup_2-ojuju",
+      "type": "popup",
+      "name": "Ojuju",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/ojuju/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/ojuju/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/img/popup-bottom-bg.png"
+      ]
+    },
+    {
+      "id": "popup_2-sigmar",
+      "type": "popup",
+      "name": "Sigmar",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/sigmar/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/sigmar/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/img/popup-bottom-bg.png"
+      ]
+    },
+    {
+      "id": "popup_2-dynapuff",
+      "type": "popup",
+      "name": "Dynapuff",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/dynapuff/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/dynapuff/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/img/popup-bottom-bg.png"
+      ]
+    },
+    {
+      "id": "popup_2-ranchers",
+      "type": "popup",
+      "name": "Ranchers",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/ranchers/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/ranchers/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/img/popup-bottom-bg.png"
+      ]
+    },
+    {
+      "id": "popup_2-gluten",
+      "type": "popup",
+      "name": "Gluten",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/gluten/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/gluten/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/img/popup-bottom-bg.png"
+      ]
+    },
+    {
+      "id": "popup_2-shrikhand",
+      "type": "popup",
+      "name": "Shrikhand",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/shrikhand/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/shrikhand/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/img/popup-bottom-bg.png"
+      ]
+    },
+    {
+      "id": "popup_2-righteous",
+      "type": "popup",
+      "name": "Righteous",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/righteous/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/righteous/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/img/popup-bottom-bg.png"
+      ]
+    },
+    {
+      "id": "popup_2-yatra-one",
+      "type": "popup",
+      "name": "Yatra one",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/yatra-one/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/yatra-one/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/img/popup-bottom-bg.png"
+      ]
+    },
+    {
+      "id": "popup_2-ceviche-one",
+      "type": "popup",
+      "name": "Ceviche one",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup/popup_2/ceviche-one/popup.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/ceviche-one/popup.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/popup.css",
+      "parentId": "popup_2",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/popup/popup_2/base/img/popup-bottom-bg.png"
+      ]
+    }
+  ]
+  
+  

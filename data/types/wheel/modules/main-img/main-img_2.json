@@ -1,0 +1,19 @@
+[
+    {
+      "id": "main-img_2",
+      "name": "Главное изображение 1",
+      "type": "main-img",
+      "parentId": null,
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-img/main-img_2/main-img.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-img/main-img_2/main-img.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-img/main-img_2/main-img.css",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/main-img/main-img_2/img/bg.jpg",
+        "./assets/landig-types/landing-wheel/modules/main-img/main-img_2/img/bg-mobile.jpg",
+        "./assets/landig-types/landing-wheel/modules/main-img/main-img_2/img/bottom-coins.png",
+        "./assets/landig-types/landing-wheel/modules/main-img/main-img_2/img/coins-bg.png",
+        "./assets/landig-types/landing-wheel/modules/main-img/main-img_2/img/ROCKET.png"
+      ]
+    }
+]
+  

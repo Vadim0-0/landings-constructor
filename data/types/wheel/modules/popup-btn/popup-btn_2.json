@@ -1,0 +1,10 @@
+[
+    {
+      "id": "popup-btn_2",
+      "name": "Кнопка в popup 2",
+      "type": "popup-btn",
+      "parentId": null,
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/popup-btn/popup-btn_2/popup-btn.png",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/popup-btn/popup-btn_2/popup-btn.css"
+    }
+]
