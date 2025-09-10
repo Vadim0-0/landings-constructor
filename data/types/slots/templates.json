@@ -3,6 +3,9 @@
     "/data/types/wheel/modules/header/header_1.json",
     "/data/types/wheel/modules/header/header_2.json",
     "/data/types/wheel/modules/header/header_3.json"
+  ],
+  "main-img": [
+    "/data/types/plinko/modules/main-img.json"
   ]
 }
 
