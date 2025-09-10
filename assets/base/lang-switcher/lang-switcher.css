@@ -1,0 +1,86 @@
+.custom-select {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    width: 100px;
+    z-index: 500;
+  }
+  .custom-select__selected {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 6px;
+    padding: 5px 10px;
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.2156862745);
+    border: 1px solid rgba(221, 221, 221, 0.431372549);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+    font-size: 14px;
+  }
+  .custom-select__selected:after {
+    content: "";
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #333;
+    transition: all 0.3s;
+  }
+  .custom-select__selected.select-arrow-active:after {
+    transform: rotate(180deg);
+  }
+  .custom-select__selected:hover {
+    border-color: #aaa;
+  }
+  .custom-select__list {
+    position: absolute;
+    display: none;
+    top: 110%;
+    left: 0;
+    right: 0;
+    max-height: 50vh;
+    overflow-y: auto;
+    border: 1px solid rgba(221, 221, 221, 0.431372549);
+    border-top: none;
+    background-color: rgba(255, 255, 255, 0.2156862745);
+    border-radius: 6px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  .custom-select__list-search {
+    position: sticky;
+    top: 0;
+    background: white;
+    border-radius: 6px;
+  }
+  .custom-select__list-search .search-box {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  .custom-select__list-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 15px;
+    transition: all 0.2s;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  .custom-select__list-item:hover {
+    background-color: #f0f0f0;
+  }
+  .custom-select__list-item.selected {
+    background-color: rgba(233, 233, 233, 0.3803921569);
+    font-weight: bold;
+  }
+  
+  #langSelect {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    visibility: hidden;
+  }

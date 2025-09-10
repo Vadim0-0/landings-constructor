@@ -1,0 +1,10 @@
+.popup__content-btn {
+  padding: 7rem 15rem;
+}
+.popup__content-btn__img {
+  display: block;
+}
+.popup__content-btn p {
+  color: #fff;
+  text-shadow: 0 0 9px #62045c;
+}

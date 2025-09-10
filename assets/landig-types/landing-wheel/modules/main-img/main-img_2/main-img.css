@@ -1,0 +1,261 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10;
+}
+.header__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  padding: 3.5rem 2rem;
+}
+.header__content-logo {
+  max-width: 53rem;
+}
+
+@media (max-width: 768px) {
+  .header__content {
+    padding: 5.5rem 4rem;
+    flex-direction: column;
+    gap: 10rem;
+  }
+  .header__content-logo {
+    max-width: 76rem;
+  }
+}
+.hero__title {
+  position: fixed;
+  top: 2rem;
+  right: 10rem;
+  width: 100rem;
+}
+.hero__title h2 {
+  font-size: 3.8rem;
+}
+.hero__title.passion-one .lang-ru {
+  font-size: 4rem;
+}
+.hero__title.rammetto-one h2 {
+  font-size: 3.5rem;
+}
+.hero__title.ceviche-one h2 {
+  font-size: 4.5rem;
+}
+.hero__title.ceviche-one .lang-ru {
+  font-size: 3.8rem;
+}
+.hero__title.ceviche-one .lang-bg {
+  font-size: 3.8rem;
+}
+.hero__title.ceviche-one .lang-el {
+  font-size: 3.8rem;
+}
+.hero__title.ceviche-one .lang-kk {
+  font-size: 3.8rem;
+}
+.hero__title.ceviche-one .lang-ky {
+  font-size: 3.8rem;
+}
+@media (max-width: 768px) {
+  .hero__title {
+    position: relative;
+    right: unset;
+    top: unset;
+    max-width: 100%;
+    width: 100%;
+    padding: 0 1rem;
+    margin-bottom: 5rem;
+  }
+  .hero__title h2 {
+    font-size: 8rem;
+    line-height: 100%;
+  }
+  .hero__title.passion-one .lang-ru {
+    font-size: 8rem;
+  }
+  .hero__title.chango h2 {
+    font-size: 7rem;
+  }
+  .hero__title.rammetto-one h2 {
+    font-size: 7rem;
+  }
+  .hero__title.ceviche-one h2 {
+    font-size: 8rem;
+  }
+  .hero__title.ceviche-one .lang-ru {
+    font-size: 7rem;
+  }
+  .hero__title.ceviche-one .lang-bg {
+    font-size: 7rem;
+  }
+  .hero__title.ceviche-one .lang-el {
+    font-size: 7rem;
+  }
+  .hero__title.ceviche-one .lang-kk {
+    font-size: 7rem;
+  }
+  .hero__title.ceviche-one .lang-ky {
+    font-size: 7rem;
+  }
+}
+.hero__content {
+  z-index: 4;
+}
+.hero__content .wheel {
+  position: absolute;
+  top: 59%;
+  transform: translateY(-50%);
+  right: 8rem;
+  width: 100rem;
+  height: 100rem;
+}
+
+@media (max-width: 768px) {
+  .hero__content .wheel {
+    top: 0;
+    right: unset;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 108rem;
+    height: 108rem;
+  }
+}
+.hero__content .erasers {
+  position: absolute;
+  top: 52%;
+  transform: translateY(-50%);
+  right: 18rem;
+  width: 84rem;
+  height: 84rem;
+}
+.hero__content .erasers__content {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 4rem 25rem;
+}
+.hero__content .erasers__content-block {
+  width: 34rem;
+  height: 34rem;
+}
+
+@media (max-width: 768px) {
+  .hero__content .erasers {
+    position: relative;
+    top: 2rem;
+    right: unset;
+    left: 50%;
+    transform: translateX(-50%);
+    justify-content: unset !important;
+  }
+  .hero__content .erasers__content {
+    gap: 14rem 25rem;
+  }
+  .hero__content .erasers__content-block {
+    width: 40rem;
+    height: 40rem;
+  }
+}
+.hero__main-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.hero__main-bg img {
+  width: 100%;
+  height: 100%;
+}
+
+.hero__coins-bg {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 5;
+}
+.hero__coins-bg img {
+  width: 100%;
+  height: 100%;
+}
+
+.hero__bottom-bg {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 88rem;
+  z-index: 5;
+}
+.hero__bottom-bg img {
+  width: 100%;
+  height: 100%;
+}
+
+.hero__rocket-bg {
+  position: fixed;
+  bottom: 0rem;
+  left: 0;
+  width: 82rem;
+  z-index: 3;
+  animation: rocketPulse 3s ease infinite;
+  transform-origin: center bottom;
+}
+.hero__rocket-bg img {
+  width: 100%;
+  height: 100%;
+}
+@keyframes rocketPulse {
+  0% {
+    transform: scale(0.8);
+  }
+  25% {
+    transform: scale(1.3); /* Плавное увеличение */
+  }
+  30% {
+    transform: scale(1.1); /* Резкое уменьшение */
+  }
+  35% {
+    transform: scale(1.2); /* Чуть-чуть увеличивается */
+  }
+  40% {
+    transform: scale(1.1); /* Эффект отскока */
+  }
+  45% {
+    transform: scale(0.8); /* Резкое уменьшение в исходное */
+  }
+  50% {
+    transform: scale(0.9); /* Чуть-чуть увеличивается */
+  }
+  55% {
+    transform: scale(0.8); /* Эффект отскока */
+  }
+  100% {
+    transform: scale(0.8);
+  }
+}
+
+@media (max-width: 768px) {
+  .hero__coins-bg {
+    width: 244rem;
+    height: 138rem;
+    z-index: 3;
+  }
+  .hero__bottom-bg {
+    left: 50%;
+    transform: translateX(-50%);
+    width: 128rem;
+    z-index: 7;
+  }
+  .hero__rocket-bg {
+    width: 132rem;
+    height: 121rem;
+    left: 50%;
+    transform: translateX(-50%);
+    animation: rocketPulseMobile 3s ease infinite;
+    z-index: 3;
+  }
+}

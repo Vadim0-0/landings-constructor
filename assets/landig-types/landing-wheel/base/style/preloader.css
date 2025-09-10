@@ -1,0 +1,22 @@
+.preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.506);
+    backdrop-filter: blur(10px);
+    z-index: 100;
+}
+.preloader-img {
+    width: 20%;
+}
+.preloader-img svg {
+    width: 100%;
+}
+.preloader.off {
+    display: none;
+}
