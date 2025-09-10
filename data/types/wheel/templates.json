@@ -1,7 +1,8 @@
 {
   "header": [
     "/data/types/wheel/modules/header/header_1.json",
-    "/data/types/wheel/modules/header/header_2.json"
+    "/data/types/wheel/modules/header/header_2.json",
+    "/data/types/wheel/modules/header/header_1.json",
   ],
   "main-img": [
     "/data/types/wheel/modules/main-img/main-img_1.json",
