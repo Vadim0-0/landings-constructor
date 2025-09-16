@@ -1,0 +1,278 @@
+[
+    {
+      "id": "wheel_3",
+      "name": "Колесо 3",
+      "type": "wheel",
+      "parentId": null,
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.png"
+    },
+    {
+      "id": "wheel_3-passion-one",
+      "type": "wheel",
+      "name": "Passion one",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/passion-one/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/passion-one/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    },
+    {
+      "id": "wheel_3-ceviche-one",
+      "type": "wheel",
+      "name": "Ceviche one",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/ceviche-one/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/ceviche-one/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    },
+    {
+      "id": "wheel_3-chango",
+      "type": "wheel",
+      "name": "Chango",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/chango/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/chango/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    },
+    {
+      "id": "wheel_3-dynapuff",
+      "type": "wheel",
+      "name": "Dynapuff",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/dynapuff/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/dynapuff/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    },
+    {
+      "id": "wheel_3-gluten",
+      "type": "wheel",
+      "name": "Gluten",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/gluten/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/gluten/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    },
+    {
+      "id": "wheel_3-inter",
+      "type": "wheel",
+      "name": "Inter",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/inter/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/inter/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    },
+    {
+      "id": "wheel_3-luckiest-guy",
+      "type": "wheel",
+      "name": "Luckiest guy",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/luckiest-guy/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/luckiest-guy/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    },
+    {
+      "id": "wheel_3-montserrat",
+      "type": "wheel",
+      "name": "Montserrat",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/montserrat/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/montserrat/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    },
+    {
+      "id": "wheel_3-ojuju",
+      "type": "wheel",
+      "name": "Ojuju",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/ojuju/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/ojuju/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    },
+    {
+      "id": "wheel_3-poppins",
+      "type": "wheel",
+      "name": "Poppins",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/poppins/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/poppins/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    },
+    {
+      "id": "wheel_3-rammetto-one",
+      "type": "wheel",
+      "name": "Rammetto one",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/rammetto-one/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/rammetto-one/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    },
+    {
+      "id": "wheel_3-ranchers",
+      "type": "wheel",
+      "name": "Ranchers",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/ranchers/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/ranchers/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    },
+    {
+      "id": "wheel_3-righteous",
+      "type": "wheel",
+      "name": "Righteous",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/righteous/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/righteous/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    },
+    {
+      "id": "wheel_3-roboto",
+      "type": "wheel",
+      "name": "Roboto",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/roboto/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/roboto/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    },
+    {
+      "id": "wheel_3-rowdies",
+      "type": "wheel",
+      "name": "Rowdies",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/rowdies/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/rowdies/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    },
+    {
+      "id": "wheel_3-shrikhand",
+      "type": "wheel",
+      "name": "Shrikhand",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/shrikhand/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/shrikhand/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    },
+    {
+      "id": "wheel_3-sigmar",
+      "type": "wheel",
+      "name": "Sigmar",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/sigmar/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/sigmar/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    },
+    {
+      "id": "wheel_3-ubuntu",
+      "type": "wheel",
+      "name": "Ubuntu",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/ubuntu/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/ubuntu/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    },
+    {
+      "id": "wheel_3-yatra-one",
+      "type": "wheel",
+      "name": "Yatra one",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/wheel/wheel_3/yatra-one/wheel.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/yatra-one/wheel.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/wheel.css",
+      "parentId": "wheel_3",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/play-btn-bg.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/spinner.png",
+        "./assets/landig-types/landing-wheel/modules/wheel/wheel_3/base/img/wheel-marker.png"
+      ]
+    }
+  ]
+  
+  
+  

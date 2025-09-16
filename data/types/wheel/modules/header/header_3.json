@@ -1,19 +1,20 @@
 [
-  {
-    "id": "header_3",
-    "type": "header",
-    "parentId": null,
-    "name": "Header 3",
-    "thumbnail": "/assets/landig-types/landing-wheel/modules/header/header_1/header.png",
-    "htmlPath": "./assets/landig-types/landing-wheel/modules/header/header_1/header.html",
-    "cssPath": "./assets/landig-types/landing-wheel/modules/header/header_1/header.css",
-    "jsPath": "",
-    "images": [
-      "./assets/landig-types/landing-wheel/modules/header/header_1/img/logo.png"
-    ],
-    "fonts": [
-      ""
-    ]
-  }
+    {
+      "id": "header_3",
+      "type": "header",
+      "parentId": null,
+      "name": "Header 3",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/header/header_3/header.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/header/header_3/header.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/header/header_3/header.css",
+      "jsPath": "",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/header/header_3/img/logo.png"
+      ],
+      "fonts": [
+        ""
+      ]
+    }
 ]
-
+  
+  

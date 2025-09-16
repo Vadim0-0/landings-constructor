@@ -1,15 +1,15 @@
 [
-    {
-      "id": "erasers_2",
-      "name": "Стирашки 2",
-      "type": "erasers",
-      "parentId": null,
-      "thumbnail": "/assets/landig-types/landing-wheel/modules/erasers/erasers_2/erasers.png",
-      "htmlPath": "./assets/landig-types/landing-wheel/modules/erasers/erasers_2/erasers.html",
-      "cssPath": "./assets/landig-types/landing-wheel/modules/erasers/erasers_2/erasers.css",
-      "images": [
-        "./assets/landig-types/landing-wheel/modules/erasers/erasers_2/img/scratch-egg.png",
-        "./assets/landig-types/landing-wheel/modules/erasers/erasers_2/img/scratch-used.png"
-      ]
-    }
-  ]
+  {
+    "id": "erasers_2",
+    "name": "Стирашки 2",
+    "type": "erasers",
+    "parentId": null,
+    "thumbnail": "/assets/landig-types/landing-wheel/modules/erasers/erasers_2/erasers.png",
+    "htmlPath": "./assets/landig-types/landing-wheel/modules/erasers/erasers_2/erasers.html",
+    "cssPath": "./assets/landig-types/landing-wheel/modules/erasers/erasers_2/erasers.css",
+    "images": [
+      "./assets/landig-types/landing-wheel/modules/erasers/erasers_2/img/scratch-egg.png",
+      "./assets/landig-types/landing-wheel/modules/erasers/erasers_2/img/scratch-used.png"
+    ]
+  }
+]

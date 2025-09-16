@@ -7,6 +7,7 @@
     "thumbnail": "/assets/landig-types/landing-wheel/modules/main-img/main-img_1/main-img.jpg",
     "htmlPath": "./assets/landig-types/landing-wheel/modules/main-img/main-img_1/main-img.html",
     "cssPath": "./assets/landig-types/landing-wheel/modules/main-img/main-img_1/main-img.css",
+    "additionalClasses": [],
     "images": [
       "./assets/landig-types/landing-wheel/modules/main-img/main-img_1/img/bg.jpg",
       "./assets/landig-types/landing-wheel/modules/main-img/main-img_1/img/bottom-bg.png",

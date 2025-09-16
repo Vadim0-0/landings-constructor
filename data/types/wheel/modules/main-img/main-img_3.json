@@ -1,0 +1,19 @@
+[
+    {
+      "id": "main-img_3",
+      "name": "Главное изображение 3",
+      "type": "main-img",
+      "parentId": null,
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-img/main-img_3/main-img.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-img/main-img_3/main-img.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-img/main-img_3/main-img.css",
+      "additionalClasses": ["header__average", "main-title__left-of-center", "main-title__smaller"],
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/main-img/main-img_3/img/bg.jpg",
+        "./assets/landig-types/landing-wheel/modules/main-img/main-img_3/img/fireworks-bg.png",
+        "./assets/landig-types/landing-wheel/modules/main-img/main-img_3/img/girl.png",
+        "./assets/landig-types/landing-wheel/modules/main-img/main-img_3/img/smoke-bg.png"
+      ]
+    }
+]
+  

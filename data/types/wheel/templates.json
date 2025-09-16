@@ -1,31 +1,41 @@
 {
   "header": [
     "/data/types/wheel/modules/header/header_1.json",
-    "/data/types/wheel/modules/header/header_2.json"
+    "/data/types/wheel/modules/header/header_2.json",
+    "/data/types/wheel/modules/header/header_3.json",
+    "/data/types/wheel/modules/header/header_4.json"
   ],
   "main-img": [
     "/data/types/wheel/modules/main-img/main-img_1.json",
-    "/data/types/wheel/modules/main-img/main-img_2.json"
+    "/data/types/wheel/modules/main-img/main-img_2.json",
+    "/data/types/wheel/modules/main-img/main-img_3.json",
+    "/data/types/wheel/modules/main-img/main-img_4.json"
   ],
   "main-title": [
     "/data/types/wheel/modules/main-title/main-title_1.json",
-    "/data/types/wheel/modules/main-title/main-title_2.json"
+    "/data/types/wheel/modules/main-title/main-title_2.json",
+    "/data/types/wheel/modules/main-title/main-title_3.json"
   ],
   "wheel": [
     "/data/types/wheel/modules/wheel/wheel_1.json",
-    "/data/types/wheel/modules/wheel/wheel_2.json"
+    "/data/types/wheel/modules/wheel/wheel_2.json",
+    "/data/types/wheel/modules/wheel/wheel_3.json",
+    "/data/types/wheel/modules/wheel/wheel_4.json"
   ],
   "erasers": [
     "/data/types/wheel/modules/erasers/erasers_1.json",
-    "/data/types/wheel/modules/erasers/erasers_2.json"
+    "/data/types/wheel/modules/erasers/erasers_2.json",
+    "/data/types/wheel/modules/erasers/erasers_3.json",
+    "/data/types/wheel/modules/erasers/erasers_4.json"
   ],
   "popup": [
     "/data/types/wheel/modules/popup/popup_1.json",
-    "/data/types/wheel/modules/popup/popup_2.json"
-  ],
-  "popup-btn": [
-    "/data/types/wheel/modules/popup-btn/popup-btn_1.json",
-    "/data/types/wheel/modules/popup-btn/popup-btn_2.json"
+    "/data/types/wheel/modules/popup/popup_2.json",
+    "/data/types/wheel/modules/popup/popup_3.json",
+    "/data/types/wheel/modules/popup/popup_4.json",
+    "/data/types/wheel/modules/popup/popup_5.json",
+    "/data/types/wheel/modules/popup/popup_6.json",
+    "/data/types/wheel/modules/popup/popup_7.json"
   ]
 }
 

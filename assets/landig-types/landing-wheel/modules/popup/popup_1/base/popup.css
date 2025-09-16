@@ -298,6 +298,9 @@
 .popup.chango .popup__content-btn p .lang-vi {
   font-size: 5rem;
 }
+.popup.inter .popup__content-btn p {
+  font-weight: 700;
+}
 .popup.inter .popup__content-btn p .lang-en {
   font-size: 8rem;
 }
@@ -569,6 +572,9 @@
 .popup.montserrat .popup__content-info__title h2 .lang-ja {
   font-size: 13rem;
 }
+.popup.montserrat .popup__content-btn p {
+  font-weight: 700;
+}
 .popup.montserrat .popup__content-btn p .lang-en {
   font-size: 10rem;
 }
@@ -691,6 +697,9 @@
 }
 .popup.montserrat .popup__content-btn p .lang-vi {
   font-size: 7rem;
+}
+.popup.poppins .popup__content-btn p {
+  font-weight: 700;
 }
 .popup.poppins .popup__content-btn p .lang-ru {
   font-size: 7rem;
@@ -958,6 +967,9 @@
 }
 .popup.rammetto-one .popup__content-btn p .lang-vi {
   font-size: 6rem;
+}
+.popup.roboto .popup__content-btn p {
+  font-weight: 700;
 }
 .popup.roboto .popup__content-btn p .lang-en {
   font-size: 10rem;
@@ -1232,6 +1244,9 @@
 .popup.rowdies .popup__content-btn p .lang-vi {
   font-size: 6rem;
 }
+.popup.ubuntu .popup__content-btn p {
+  font-weight: 700;
+}
 .popup.ubuntu .popup__content-btn p .lang-en {
   font-size: 10rem;
 }
@@ -1366,6 +1381,9 @@
 }
 .popup.ubuntu .popup__content-btn p .lang-vi {
   font-size: 6rem;
+}
+.popup.ojuju .popup__content-btn p {
+  font-weight: 800;
 }
 .popup.ojuju .popup__content-btn p .lang-en {
   font-size: 10rem;
@@ -6106,4 +6124,14 @@
   .popup.ceviche-one .popup__content-btn p .lang-vi {
     font-size: 6rem;
   }
+}
+.popup__content-btn {
+  padding: 7rem 15rem;
+}
+.popup__content-btn__img {
+  display: block;
+}
+.popup__content-btn p {
+  color: #fff;
+  text-shadow: 0 0 9px #62045c;
 }

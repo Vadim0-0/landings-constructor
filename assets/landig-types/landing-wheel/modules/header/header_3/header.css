@@ -1,0 +1,18 @@
+.header__content {
+  padding: 0.5rem 1rem;
+}
+.header__content-logo {
+  width: 30rem;
+}
+
+@media (max-width: 768px) {
+  .header__content {
+    padding: 1.5rem 1rem;
+  }
+  .header__content-logo {
+    width: 52rem;
+  }
+  .hero {
+    padding-top: 40rem;
+  }
+}

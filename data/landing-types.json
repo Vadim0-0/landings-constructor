@@ -5,14 +5,17 @@
     "thumbnail": "/assets/landig-types/landing-wheel/main-img.jpg",
     "templatesPath": "/data/types/wheel/templates.json",
     "zipBuilder": "wheel",
-    "slots": [
+    "backgroundSlots": [
+      { "type": "main-img", "name": "Выберите главное изображение" }
+    ],
+    "groupSlots": [
       { "type": "header", "name": "Выберите логотип" },
-      { "type": "main-img", "name": "Выберите главное изображение" },
       { "type": "main-title", "name": "Выберите главный заголовок" },
-      { "type": "wheel", "name": "Выберите колесо" },
+      { "type": "wheel", "name": "Выберите колесо" }
+    ],
+    "singleSlots": [
       { "type": "erasers", "name": "Выберите стиратели" },
-      { "type": "popup", "name": "Выберите popup" },
-      { "type": "popup-btn", "name": "Выберите кнопку в popup" }
+      { "type": "popup", "name": "Выберите popup" }
     ]
   },
   {
@@ -21,9 +24,8 @@
     "thumbnail": "/assets/landig-types/landing-slots/main-img.jpg",
     "templatesPath": "/data/types/slots/templates.json",
     "zipBuilder": "slots",
-    "slots": [
-      { "type": "header", "name": "Выберите логотип" }
-    ]
+    "groupSlots": [],
+    "singleSlots": []
   },
   {
     "id": "plinko",
@@ -31,8 +33,8 @@
     "thumbnail": "/assets/landig-types/landing-plinko/main-img.jpg",
     "templatesPath": "/data/types/plinko/templates.json",
     "zipBuilder": "plinko",
-    "slots": [
-    ]
+    "groupSlots": [],
+    "singleSlots": []
   }
 ]
 

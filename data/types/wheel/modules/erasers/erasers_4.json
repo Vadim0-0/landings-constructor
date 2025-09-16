@@ -1,0 +1,20 @@
+
+[
+    {
+      "id": "erasers_4",
+      "name": "Стирашки 4",
+      "type": "erasers",
+      "parentId": null,
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/erasers/erasers_4/erasers.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/erasers/erasers_4/erasers.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/erasers/erasers_4/erasers.css",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/erasers/erasers_4/img/scratch-egg_1.png",
+        "./assets/landig-types/landing-wheel/modules/erasers/erasers_4/img/scratch-egg_2.png",
+        "./assets/landig-types/landing-wheel/modules/erasers/erasers_4/img/scratch-egg_3.png",
+        "./assets/landig-types/landing-wheel/modules/erasers/erasers_4/img/scratch-used_1.png",
+        "./assets/landig-types/landing-wheel/modules/erasers/erasers_4/img/scratch-used_2.png",
+        "./assets/landig-types/landing-wheel/modules/erasers/erasers_4/img/scratch-used_3.png"
+      ]
+    }
+  ]

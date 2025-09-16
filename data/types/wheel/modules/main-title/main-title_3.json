@@ -1,0 +1,182 @@
+[
+    {
+      "id": "main-title_3",
+      "name": "Заголовок 3",
+      "type": "main-title",
+      "parentId": null,
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.png"
+    },
+    {
+      "id": "main-title_3-ceviche-one",
+      "type": "main-title",
+      "name": "Ceviche one",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/ceviche-one/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/ceviche-one/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    },
+    {
+      "id": "main-title_3-passion-one",
+      "type": "main-title",
+      "name": "Passion One",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/passion-one/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/passion-one/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    },
+    {
+      "id": "main-title_3-chango",
+      "type": "main-title",
+      "name": "Chango",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/chango/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/chango/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    },
+    {
+      "id": "main-title_3-inter",
+      "type": "main-title",
+      "name": "Inter",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/inter/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/inter/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    },
+    {
+      "id": "main-title_3-luckiest-guy",
+      "type": "main-title",
+      "name": "Luckiest guy",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/luckiest-guy/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/luckiest-guy/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    },
+    {
+      "id": "main-title_3-montserrat",
+      "type": "main-title",
+      "name": "Montserrat",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/montserrat/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/montserrat/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    },
+    {
+      "id": "main-title_3-ojuju",
+      "type": "main-title",
+      "name": "Ojuju",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/ojuju/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/ojuju/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    },
+    {
+      "id": "main-title_3-poppins",
+      "type": "main-title",
+      "name": "Poppins",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/poppins/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/poppins/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    },
+    {
+      "id": "main-title_3-rammetto-one",
+      "type": "main-title",
+      "name": "Rammetto one",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/rammetto-one/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/rammetto-one/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    },
+    {
+      "id": "main-title_3-ranchers",
+      "type": "main-title",
+      "name": "Ranchers",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/ranchers/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/ranchers/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    },
+    {
+      "id": "main-title_3-righteous",
+      "type": "main-title",
+      "name": "Righteous",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/righteous/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/righteous/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    },
+    {
+      "id": "main-title_3-roboto",
+      "type": "main-title",
+      "name": "Roboto",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/roboto/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/roboto/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    },
+    {
+      "id": "main-title_3-rowdies",
+      "type": "main-title",
+      "name": "Rowdies",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/rowdies/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/rowdies/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    },
+    {
+      "id": "main-title_3-shrikhand",
+      "type": "main-title",
+      "name": "Shrikhand",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/shrikhand/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/shrikhand/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    },
+    {
+      "id": "main-title_3-sigmar",
+      "type": "main-title",
+      "name": "Sigmar",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/sigmar/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/sigmar/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    },
+    {
+      "id": "main-title_3-ubuntu",
+      "type": "main-title",
+      "name": "Ubuntu",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/ubuntu/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/ubuntu/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    },
+    {
+      "id": "main-title_3-yatra-one",
+      "type": "main-title",
+      "name": "Yatra one",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/yatra-one/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/yatra-one/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    },
+    {
+      "id": "main-title_3-dynapuff",
+      "type": "main-title",
+      "name": "Dynapuff",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/dynapuff/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/dynapuff/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    },
+    {
+      "id": "main-title_3-gluten",
+      "type": "main-title",
+      "name": "Gluten",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-title/main-title_3/gluten/main-title.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/gluten/main-title.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-title/main-title_3/base/main-title.css",
+      "parentId": "main-title_3"
+    }
+  ]
+  
+  

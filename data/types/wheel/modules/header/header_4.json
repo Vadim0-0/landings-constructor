@@ -1,0 +1,20 @@
+[
+    {
+      "id": "header_4",
+      "type": "header",
+      "parentId": null,
+      "name": "Header 4",
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/header/header_4/header.png",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/header/header_4/header.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/header/header_4/header.css",
+      "jsPath": "",
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/header/header_4/img/logo.png"
+      ],
+      "fonts": [
+        ""
+      ]
+    }
+]
+  
+  

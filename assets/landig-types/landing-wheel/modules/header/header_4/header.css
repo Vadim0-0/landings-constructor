@@ -1,0 +1,21 @@
+.header {
+  padding: 1rem 1rem;
+}
+.header__content-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25rem;
+}
+
+@media (max-width: 768px) {
+  .hero {
+    padding-top: 35rem;
+  }
+  .header {
+    padding: 1.5rem 1rem;
+  }
+  .header__content-logo {
+    width: 52rem;
+  }
+}

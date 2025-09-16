@@ -1,0 +1,20 @@
+[
+    {
+      "id": "main-img_4",
+      "name": "Главное изображение 4",
+      "type": "main-img",
+      "parentId": null,
+      "thumbnail": "/assets/landig-types/landing-wheel/modules/main-img/main-img_4/main-img.jpg",
+      "htmlPath": "./assets/landig-types/landing-wheel/modules/main-img/main-img_4/main-img.html",
+      "cssPath": "./assets/landig-types/landing-wheel/modules/main-img/main-img_4/main-img.css",
+      "additionalClasses": ["header__average", "header__bottom-right", "main-title__smaller", "main-title__center", "wheel__right-of-center"],
+      "images": [
+        "./assets/landig-types/landing-wheel/modules/main-img/main-img_4/img/bg.jpg",
+        "./assets/landig-types/landing-wheel/modules/main-img/main-img_4/img/bg-phone.jpg",
+        "./assets/landig-types/landing-wheel/modules/main-img/main-img_4/img/blackout-bg.png",
+        "./assets/landig-types/landing-wheel/modules/main-img/main-img_4/img/fireflies-bg.png",
+        "./assets/landig-types/landing-wheel/modules/main-img/main-img_4/img/girl.png"
+      ]
+    }
+]
+  

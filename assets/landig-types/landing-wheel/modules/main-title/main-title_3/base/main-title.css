@@ -1,0 +1,245 @@
+.hero__title {
+  padding: 0 1rem;
+  z-index: 3;
+}
+.hero__title h2 {
+  text-transform: uppercase;
+  font-weight: 400;
+  line-height: 83%;
+  text-align: center;
+  color: #fff;
+  text-shadow: 0 0 3px #0920a4;
+}
+  .hero__title-second {
+    display: none;
+  }
+  .hero__title.inter h2 {
+    font-weight: 600;
+  }
+  .hero__title.luckiest-guy .lang-ru {
+    font-weight: 600;
+  }
+  .hero__title.luckiest-guy .lang-bg {
+    font-weight: 600;
+  }
+  .hero__title.luckiest-guy .lang-uk {
+    font-weight: 600;
+  }
+  .hero__title.luckiest-guy .lang-be {
+    font-weight: 600;
+  }
+  .hero__title.luckiest-guy .lang-el {
+    font-weight: 600;
+  }
+  .hero__title.luckiest-guy .lang-hy {
+    font-weight: 600;
+  }
+  .hero__title.luckiest-guy .lang-kk {
+    font-weight: 600;
+  }
+  .hero__title.luckiest-guy .lang-ky {
+    font-weight: 600;
+  }
+  .hero__title.luckiest-guy .lang-sr {
+    font-weight: 600;
+  }
+  .hero__title.luckiest-guy .lang-tg {
+    font-weight: 600;
+  }
+  .hero__title.montserrat h2 {
+    font-weight: 600;
+  }
+  .hero__title.poppins h2 {
+    font-weight: 600;
+  }
+  .hero__title.rammetto-one .lang-ru {
+    font-weight: 600;
+  }
+  .hero__title.rammetto-one .lang-bg {
+    font-weight: 600;
+  }
+  .hero__title.rammetto-one .lang-hu {
+    line-height: 120%;
+  }
+  .hero__title.rammetto-one .lang-lt {
+    line-height: 120%;
+  }
+  .hero__title.rammetto-one .lang-cs {
+    line-height: 120%;
+  }
+  .hero__title.rammetto-one .lang-tr {
+    line-height: 120%;
+  }
+  .hero__title.rammetto-one .lang-es {
+    line-height: 120%;
+  }
+  .hero__title.rammetto-one .lang-uk {
+    font-weight: 600;
+  }
+  .hero__title.rammetto-one .lang-be {
+    font-weight: 600;
+  }
+  .hero__title.rammetto-one .lang-bs {
+    line-height: 120%;
+  }
+  .hero__title.rammetto-one .lang-da {
+    line-height: 120%;
+  }
+  .hero__title.rammetto-one .lang-el {
+    font-weight: 600;
+    line-height: 120%;
+  }
+  .hero__title.rammetto-one .lang-et {
+    line-height: 120%;
+  }
+  .hero__title.rammetto-one .lang-hr {
+    line-height: 120%;
+  }
+  .hero__title.rammetto-one .lang-hy {
+    font-weight: 600;
+  }
+  .hero__title.rammetto-one .lang-kk {
+    font-weight: 600;
+  }
+  .hero__title.rammetto-one .lang-ky {
+    font-weight: 600;
+  }
+  .hero__title.rammetto-one .lang-sr {
+    font-weight: 600;
+  }
+  .hero__title.rammetto-one .lang-tg {
+    font-weight: 600;
+  }
+  .hero__title.roboto h2 {
+    font-weight: 600;
+  }
+  .hero__title.rowdies .lang-ru {
+    font-weight: 600;
+  }
+  .hero__title.rowdies .lang-bg {
+    font-weight: 600;
+  }
+  .hero__title.rowdies .lang-uk {
+    font-weight: 600;
+  }
+  .hero__title.rowdies .lang-be {
+    font-weight: 600;
+  }
+  .hero__title.rowdies .lang-el {
+    font-weight: 600;
+  }
+  .hero__title.rowdies .lang-tg {
+    font-weight: 600;
+  }
+  .hero__title.ubuntu h2 {
+    font-weight: 600;
+  }
+  .hero__title.ojuju h2 {
+    font-weight: 700;
+  }
+  .hero__title.sigmar .lang-ru {
+    font-weight: 600;
+  }
+  .hero__title.sigmar .lang-bg {
+    font-weight: 600;
+  }
+  .hero__title.sigmar .lang-uk {
+    font-weight: 600;
+  }
+  .hero__title.sigmar .lang-be {
+    font-weight: 600;
+  }
+  .hero__title.sigmar .lang-el {
+    font-weight: 600;
+  }
+  .hero__title.sigmar .lang-hy {
+    font-weight: 600;
+  }
+  .hero__title.sigmar .lang-kk {
+    font-weight: 600;
+  }
+  .hero__title.sigmar .lang-ky {
+    font-weight: 600;
+  }
+  .hero__title.sigmar .lang-sr {
+    font-weight: 600;
+  }
+  .hero__title.sigmar .lang-tg {
+    font-weight: 600;
+  }
+  .hero__title.dynapuff h2 {
+    font-weight: 700;
+  }
+  .hero__title.ranchers .lang-ru {
+    font-weight: 600;
+  }
+  .hero__title.ranchers .lang-bg {
+    font-weight: 600;
+  }
+  .hero__title.ranchers .lang-uk {
+    font-weight: 600;
+  }
+  .hero__title.ranchers .lang-be {
+    font-weight: 600;
+  }
+  .hero__title.ranchers .lang-el {
+    font-weight: 600;
+  }
+  .hero__title.ranchers .lang-hy {
+    font-weight: 600;
+  }
+  .hero__title.ranchers .lang-ka {
+    font-weight: 600;
+  }
+  .hero__title.ranchers .lang-kk {
+    font-weight: 600;
+  }
+  .hero__title.ranchers .lang-ky {
+    font-weight: 600;
+  }
+  .hero__title.ranchers .lang-sr {
+    font-weight: 600;
+  }
+  .hero__title.ranchers .lang-tg {
+    font-weight: 600;
+  }
+  .hero__title.gluten h2 {
+    font-weight: 700;
+  }
+  .hero__title.shrikhand h2 {
+    font-weight: 700;
+  }
+  .hero__title.righteous h2 {
+    font-weight: 600;
+  }
+  .hero__title.yatra-one h2 {
+    font-weight: 600;
+  }
+  .hero__title.ceviche-one .lang-ru {
+    font-weight: 600;
+  }
+  .hero__title.ceviche-one .lang-bg {
+    font-weight: 600;
+  }
+  .hero__title.ceviche-one .lang-uk {
+    font-weight: 600;
+  }
+  .hero__title.ceviche-one .lang-be {
+    font-weight: 600;
+  }
+  .hero__title.ceviche-one .lang-el {
+    font-weight: 600;
+  }
+  .hero__title.ceviche-one .lang-sr {
+    font-weight: 600;
+  }
+  .hero__title.ceviche-one .lang-tg {
+    font-weight: 600;
+  }
+  .hero.change .hero__title-first {
+    display: none;
+  }
+  .hero.change .hero__title-second {
+    display: block;
+  }
+  
