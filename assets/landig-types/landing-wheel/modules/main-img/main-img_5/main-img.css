@@ -1,0 +1,176 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 50rem;
+  z-index: 10;
+}
+.header__content-logo {
+  max-width: 32rem;
+}
+
+@media (max-width: 768px) {
+  .header {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .header__content-logo {
+    max-width: 76rem;
+  }
+  .header__content-logo img {
+    max-height: 30rem;
+    object-fit: contain;
+  }
+}
+.hero__title {
+  position: fixed;
+  top: 2rem;
+  right: 0;
+  width: 105rem;
+}
+.hero__title h2 {
+  font-size: 3.4rem;
+}
+@media (max-width: 768px) {
+  .hero__title {
+    position: relative;
+    top: unset;
+    left: 50%;
+    transform: translateX(-50%);
+    max-width: 100%;
+    width: 100%;
+    padding: 0 1rem;
+    margin-bottom: 5rem;
+  }
+  .hero__title h2 {
+    font-size: 6rem;
+    line-height: 100%;
+  }
+  .hero__title.passion-one .lang-ru {
+    font-size: 6rem;
+  }
+}
+.hero__content {
+  z-index: 4;
+}
+.hero__content .wheel {
+  position: absolute;
+  top: 58%;
+  transform: translateY(-50%);
+  right: 1rem;
+  width: 99rem;
+  height: 99rem;
+}
+
+@media (max-width: 768px) {
+  .hero__content .wheel {
+    top: 0;
+    right: unset;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 102rem;
+    height: 102rem;
+  }
+}
+.hero__content .erasers {
+  position: absolute;
+  top: 52%;
+  transform: translateY(-50%);
+  right: 8rem;
+}
+.hero__content .erasers__content {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0rem 25rem;
+}
+.hero__content .erasers__content-block {
+  width: 38rem;
+  height: 38rem;
+}
+.hero.change .hero__content {
+  z-index: 6;
+}
+
+@media (max-width: 768px) {
+  .hero__content .erasers {
+    position: relative;
+    top: 10rem;
+    right: unset;
+    left: 50%;
+    transform: translateX(-50%);
+    justify-content: unset !important;
+  }
+  .hero__content .erasers__content {
+    gap: 9rem 8rem;
+  }
+  .hero__content .erasers__content-block {
+    width: 44rem;
+    height: 44rem;
+  }
+}
+.hero__main-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.hero__main-bg img {
+  width: 100%;
+  height: 100%;
+}
+.hero__blackout-bg {
+  position: fixed;
+  bottom: -3px;
+  left: 0;
+  width: 100%;
+  z-index: 2;
+  mix-blend-mode: screen;
+  pointer-events: none;
+}
+.hero__blackout-bg img {
+  width: 100%;
+  height: 100%;
+}
+.hero__fireflies-bg {
+  position: fixed;
+  bottom: -3px;
+  left: 0;
+  width: 100%;
+  z-index: 6;
+  mix-blend-mode: screen;
+  pointer-events: none;
+}
+.hero__fireflies-bg img {
+  width: 100%;
+  height: 100%;
+}
+.hero__girl-bg {
+  position: fixed;
+  bottom: -2rem;
+  left: 5rem;
+  width: 61rem;
+  z-index: 3;
+  transition: all 0.3s ease-in-out;
+}
+.hero__girl-bg img {
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 768px) {
+  .hero__fireflies-bg {
+    width: 120%;
+    height: 230rem;
+  }
+  .hero__blackout-bg {
+    height: 60rem;
+    z-index: 7;
+  }
+  .hero__girl-bg {
+    width: 78rem;
+    bottom: 0rem;
+    left: -11rem;
+    z-index: 6;
+  }
+}
